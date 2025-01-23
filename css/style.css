@@ -200,6 +200,8 @@ textarea {
   height: 100%;
   object-fit: cover; /* Ensures the video covers the full container */
   z-index: -1; /* Keeps the video in the background */
+  transform: rotate(-90deg); /* Rotates the video 90 degrees counterclockwise */
+  transform-origin: center; /* Ensures the video rotates around its centre */
 }
 
 .home-hero__socials {

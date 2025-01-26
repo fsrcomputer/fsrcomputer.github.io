@@ -333,7 +333,7 @@ textarea {
         .projects__row-content-desc {
           font-size: 1.7rem; } }
 
- {
+ .contact {
   background: linear-gradient(to right, rgba(0, 145, 125, 0.8), rgba(0, 145, 125, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center; }

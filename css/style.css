@@ -91,7 +91,8 @@ textarea {
   letter-spacing: 3px;
   text-align: center;
   margin-bottom: 3.5rem;
-  position: relative; }
+  position: relative;
+  color: #1a1a1a; }
   .heading-sec__main--lt {
     color: #fff; }
     .heading-sec__main--lt::after {
@@ -138,7 +139,7 @@ textarea {
 
 .btn {
   background: #fff;
-  color: #333;
+  color: #1a1a1a;
   text-transform: uppercase;
   letter-spacing: 2px;
   display: inline-block;
@@ -270,7 +271,8 @@ textarea {
     .about__content-title {
       font-weight: 700;
       font-size: 2.8rem;
-      margin-bottom: 3rem; }
+      margin-bottom: 3rem;
+      color: #1a1a1a; }
       @media only screen and (max-width: 37.5em) {
         .about__content-title {
           font-size: 2.4rem; } }
@@ -319,7 +321,8 @@ textarea {
     .projects__row-content-title {
       font-weight: 700;
       font-size: 2.8rem;
-      margin-bottom: 2rem; }
+      margin-bottom: 2rem;
+      color: #1a1a1a; }
       @media only screen and (max-width: 37.5em) {
         .projects__row-content-title {
           font-size: 2.4rem; } }
@@ -448,7 +451,8 @@ textarea {
   .project-details__content-title {
     font-weight: 700;
     font-size: 2.8rem;
-    margin-bottom: 3rem; }
+    margin-bottom: 3rem;
+    color: #1a1a1a; }
     @media only screen and (max-width: 37.5em) {
       .project-details__content-title {
         font-size: 2.4rem; } }
@@ -619,7 +623,7 @@ textarea {
     border-bottom: 0; }
 
 .main-footer {
-  background: #000;
+  background: #1a1a1a;
   color: #fff; }
   .main-footer__upper {
     display: flex;

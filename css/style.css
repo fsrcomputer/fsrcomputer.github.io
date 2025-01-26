@@ -509,7 +509,7 @@ textarea {
   width: 100%;
   z-index: 1000;
   background: #000;
-  background: #fff;
+  background: #1a1a1a;
   box-shadow: 0 10px 100px rgba(0, 0, 0, 0.1); }
   .header__content {
     display: flex;
@@ -523,7 +523,7 @@ textarea {
     display: flex;
     align-items: center;
     cursor: pointer;
-    color: #333;
+    color: #fff;
     transition: color .3s; }
     .header__logo-container:hover {
       color: #0062b9; }
@@ -559,7 +559,7 @@ textarea {
     padding: 2.2rem 3rem;
     display: inline-block;
     font-size: 1.6rem;
-    color: #333;
+    color: #fff;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
